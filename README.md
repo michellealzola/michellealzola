@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michellealzola
+- 👋 Hi, I’m Michelle
 - 👀 I’m interested in robotics, machine learning and software engineering
 - 🌱 I’m currently learning IT Software Development Major in Southern Alberta Institute of Technology
 - 💞️ I’m looking to collaborate on our school projects and some personal projects.
